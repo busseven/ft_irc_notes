@@ -2,7 +2,7 @@
 
 allowed functions
 
-[socket](https://man7.org/linux/man-pages/man2/socket.2.html)<br>
+
 [close](https://man7.org/linux/man-pages/man2/close.2.html)<br>
 [setsockopt](https://man7.org/linux/man-pages/man3/setsockopt.3p.html)<br>
 [getprotobyname](https://man7.org/linux/man-pages/man3/getprotobyname.3p.html)<br>
@@ -17,5 +17,5 @@ allowed functions
 
 |     |     |
 | --- | --- |
-| Row 1 Cell 1 | Row 1 Cell 2 |
+| [socket](https://man7.org/linux/man-pages/man2/socket.2.html)| Row 1 Cell 2 |
 | Row 2 Cell 1 | Row 2 Cell 2 |
