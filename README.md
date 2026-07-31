@@ -13,3 +13,9 @@ allowed functions
 [connect](https://man7.org/linux/man-pages/man2/connect.2.html)
 [listen](https://man7.org/linux/man-pages/man2/listen.2.html)
 [accept](https://man7.org/linux/man-pages/man2/accept.2.html)
+
+
+|     |     |
+| --- | --- |
+| Row 1 Cell 1 | Row 1 Cell 2 |
+| Row 2 Cell 1 | Row 2 Cell 2 |
