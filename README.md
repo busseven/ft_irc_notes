@@ -1,12 +1,5 @@
 # ft_irc_notes
 
-# Development
-
-## 1. Branching model
-- Naming: <owner\>/<area\>-<short description\> *Ex: emir/net-poll-loop* or *kuzey/cmd-mode-k*
-- A branch should live for a day at most. If a branch is older than 24 hours, split it.
-- Always merge into main through a [pull request]().
-
 ## Allowed functions
 
 Everything in C++ 98.
