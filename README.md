@@ -2,6 +2,7 @@
 
 ## Allowed functions
 
+Everything in C++ 98.
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | [socket](https://man7.org/linux/man-pages/man2/socket.2.html)|[close](https://man7.org/linux/man-pages/man2/close.2.html)|[setsockopt](https://man7.org/linux/man-pages/man3/setsockopt.3p.html)|[getsockname](https://man7.org/linux/man-pages/man2/getsockname.2.html)| [getprotobyname](https://man7.org/linux/man-pages/man3/getprotobyname.3p.html)|
