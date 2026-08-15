@@ -12,7 +12,9 @@
 - [Resolving merge conflicts after a git rebase](https://docs.github.com/en/get-started/using-git/resolving-merge-conflicts-after-a-git-rebase)<br>
 
 [**Pull requests documentation**](https://docs.github.com/en/pull-requests)<br>
-[**Configuring branches and merges**](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>[**Conventional commits**](https://www.conventionalcommits.org/en/v1.0.0/)<br>
+[**Configuring branches and merges**](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
+[**Conventional commits**](https://www.conventionalcommits.org/en/v1.0.0/)<br>
+
 - [Conventional commits cheat sheet](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)<br>
 
 [**GitHub issues**](https://docs.github.com/en/issues)<br>
