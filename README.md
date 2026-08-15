@@ -14,6 +14,8 @@
 [**Git cheat-sheet**](https://git-scm.com/cheat-sheet)<br>
 [**Conventional commits**](https://www.conventionalcommits.org/en/v1.0.0/)<br>
 [**Conventional commits cheat sheet**](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)<br>
+[**Splitting branches**](https://medium.com/@groksrc/protip-how-to-split-large-branches-into-small-pull-requests-81d607660c05)<br>
+[**Tool for splitting branches**](https://github.com/djpohly/git-split-branch/blob/master/README.md)<br>
 
 ## Allowed functions
 
