@@ -17,7 +17,9 @@
 [**.gitignore**](https://docs.github.com/en/get-started/git-basics/ignoring-files)<br>
 [**.gitattributes**](https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github?versionId=free-pro-team%40latest&productId=get-started&restPage=git-basics%2Cignoring-files)<br>
 [**Line endings**](https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings)<br>
-[**Using git**](https://docs.github.com/en/get-started/using-git)<br>
+[**Using git**](https://docs.github.com/en/get-started/using-git)<br><br>
+
+**NOTE: You can always research more as needed in the future, don't get lost!!**
 
 ## Allowed functions
 
