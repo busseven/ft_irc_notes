@@ -6,7 +6,7 @@
 
 [Trunk-based development](https://trunkbaseddevelopment.com/)<br>
 [Git cheat-sheet](https://git-scm.com/cheat-sheet)<br>
-[Using git](https://docs.github.com/en/get-started/using-git)
+[Using git](https://docs.github.com/en/get-started/using-git)<br>
 [Pull requests documentation](https://docs.github.com/en/pull-requests)<br>
 [Configuring branches and merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)<br>
