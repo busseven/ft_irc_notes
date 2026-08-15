@@ -1,5 +1,6 @@
 # ft_irc_notes
 
+**IMPORTANT: Click on a link while holding CTRL so that it opens in a new tab.**<br><br>
 ## Branching model
 Decision: [trunk-based development](https://trunkbaseddevelopment.com/) with short-lived feature [branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository), and no
 develop branch.
