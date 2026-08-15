@@ -1,5 +1,35 @@
 # ft_irc_notes
 
+## Branching model
+Decision: [trunk-based development](https://trunkbaseddevelopment.com/) with short-lived feature [branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository), and no
+develop branch.
+
+• main is always compilable and always runnable. If main is broken, that is a stop-the-world
+event.<br><br>
+• Every piece of work happens on a branch named <owner\>/<area\>-<short-description\> , for
+example emir/net-poll-loop or kuzey/cmd-mode-k<br><br>
+• A branch lives at most one day. If your branch is older than 24 hours, it is too big; [split it](https://github.com/djpohly/git-split-branch/blob/master/README.md).<br><br>
+• You merge into main through a [pull request](https://docs.github.com/en/pull-requests/reference), always, even for a two-line fix.<br><br>
+
+## Branch protection rules
+On GitHub: Settings, Branches, Add rule for main.<br>
+
+• Require a [pull request](https://docs.github.com/en/pull-requests/reference) before merging.<br><br>
+• Require approvals: 1. Yes, this means you [review](https://docs.github.com/en/pull-requests/how-tos/review-pull-requests) each other. This is the mechanism that
+guarantees both of you understand the whole codebase by the defence, which is a
+subject requirement in disguise.<br><br>
+• Require status checks to pass before merging: select the CI job you create in 2.4.7.<br><br>
+• Require branches to be up to date before merging: on. This forces the person merging
+second to rebase, which surfaces conflicts in their own branch rather than in main.<br><br>
+• Do not enable “require linear history” plus “squash only” plus signed commits plus
+everything else GitHub offers. Every additional rule is a chance to be blocked at 2 a.m.
+by your own configuration.<br><br>
+*Trap.* If you are a two-person team and you enable “require approvals” with “dismiss stale
+approvals”, you can lock yourselves out when one person is asleep and the other has a one-
+line fix for a broken main . *Keep an escape hatch: repository administrators can bypass.
+Agree verbally that the bypass is used only for “ main does not compile” and that the
+bypassing person posts in Slack immediately.*<br><br>
+
 ## Allowed functions
 
 Everything in C++ 98.
