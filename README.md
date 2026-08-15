@@ -1,15 +1,21 @@
 # ft_irc_notes
 
 **IMPORTANT: Click on a link while holding CTRL so that it opens in a new tab.**<br><br>
+
+## Resources
+
+[Trunk-based development](https://trunkbaseddevelopment.com/)<br>
+[Configuring branches and merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
+[Tool for splitting a branch](https://github.com/djpohly/git-split-branch/blob/master/README.md)<br>
 ## Branching model
-Decision: [trunk-based development](https://trunkbaseddevelopment.com/) with short-lived feature [branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository), and no
+Decision:  with short-lived feature [branches], and no
 develop branch.
 
 • main is always compilable and always runnable. If main is broken, that is a stop-the-world
 event.<br><br>
 • Every piece of work happens on a branch named **<owner\>/<area\>-<short-description\>** , for
 example emir/net-poll-loop or kuzey/cmd-mode-k<br><br>
-• A branch lives at most **one day**. If your branch is older than 24 hours, it is too big; [split it](https://github.com/djpohly/git-split-branch/blob/master/README.md).<br><br>
+• A branch lives at most **one day**. If your branch is older than 24 hours, it is too big; [split it]().<br><br>
 • You merge into main through a [pull request](https://docs.github.com/en/pull-requests/reference), always, even for a two-line fix.<br><br>
 
 ## Branch protection rules
