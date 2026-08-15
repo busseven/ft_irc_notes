@@ -11,6 +11,7 @@
 [Configuring branches and merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)<br>
 [GitHub issues](https://docs.github.com/en/issues)<br>
+[.gitignore](https://docs.github.com/en/get-started/git-basics/ignoring-files)<br>
 
 ## Allowed functions
 
