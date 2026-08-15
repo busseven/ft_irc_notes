@@ -10,6 +10,7 @@
 [Pull requests documentation](https://docs.github.com/en/pull-requests)<br>
 [Configuring branches and merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)<br>
+[Conventional commits cheat sheet](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)<br>
 [GitHub issues](https://docs.github.com/en/issues)<br>
 [.gitignore](https://docs.github.com/en/get-started/git-basics/ignoring-files)<br>
 [.gitattributes](https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github?versionId=free-pro-team%40latest&productId=get-started&restPage=git-basics%2Cignoring-files)
