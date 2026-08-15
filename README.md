@@ -7,16 +7,10 @@
 [**Trunk-based development**](https://trunkbaseddevelopment.com/)<br>
 [**Git cheat-sheet**](https://git-scm.com/cheat-sheet)<br>
 [**Using git**](https://docs.github.com/en/get-started/using-git)<br>
-- [About git rebase](https://docs.github.com/en/get-started/using-git/about-git-rebase)<br>
-- [Using git rebase on the command line](https://docs.github.com/en/get-started/using-git/using-git-rebase-on-the-command-line)<br>
-- [Resolving merge conflicts after a git rebase](https://docs.github.com/en/get-started/using-git/resolving-merge-conflicts-after-a-git-rebase)<br>
-
 [**Pull requests documentation**](https://docs.github.com/en/pull-requests)<br>
 [**Configuring branches and merges**](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
 [**Conventional commits**](https://www.conventionalcommits.org/en/v1.0.0/)<br>
-
-- [Conventional commits cheat sheet](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)<br>
-
+[**Conventional commits cheat sheet**](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)<br>
 [**GitHub issues**](https://docs.github.com/en/issues)<br>
 [**.gitignore**](https://docs.github.com/en/get-started/git-basics/ignoring-files)<br>
 [**.gitattributes**](https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github?versionId=free-pro-team%40latest&productId=get-started&restPage=git-basics%2Cignoring-files)
