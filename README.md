@@ -5,13 +5,15 @@
 ## Resources
 
 [**Using git**](https://docs.github.com/en/get-started/using-git)<br>
+[**Line endings**](https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings)<br>
 [**Pull requests documentation**](https://docs.github.com/en/pull-requests)<br>
 [**Configuring branches and merges**](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
 [**GitHub issues**](https://docs.github.com/en/issues)<br>
 [**.gitignore**](https://docs.github.com/en/get-started/git-basics/ignoring-files)<br>
 [**.gitattributes**](https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github?versionId=free-pro-team%40latest&productId=get-started&restPage=git-basics%2Cignoring-files)<br>
-[**Trunk-based development**](https://trunkbaseddevelopment.com/)<br>
 [**Git cheat-sheet**](https://git-scm.com/cheat-sheet)<br>
+[**Trunk-based development**](https://trunkbaseddevelopment.com/)<br>
+[**Squash and Merge**](https://nidhiashtikar.medium.com/squash-and-merge-simplifying-git-workflows-3c1e86319efd)<br>
 [**Conventional commits**](https://www.conventionalcommits.org/en/v1.0.0/)<br>
 [**Conventional commits cheat sheet**](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)<br>
 [**Splitting branches**](https://medium.com/@groksrc/protip-how-to-split-large-branches-into-small-pull-requests-81d607660c05)<br>
