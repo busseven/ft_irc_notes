@@ -12,6 +12,7 @@
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)<br>
 [GitHub issues](https://docs.github.com/en/issues)<br>
 [.gitignore](https://docs.github.com/en/get-started/git-basics/ignoring-files)<br>
+[.gitattributes](https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github?versionId=free-pro-team%40latest&productId=get-started&restPage=git-basics%2Cignoring-files)
 
 ## Allowed functions
 
