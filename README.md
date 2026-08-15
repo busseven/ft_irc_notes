@@ -6,8 +6,8 @@
 
 [Trunk-based development](https://trunkbaseddevelopment.com/)<br>
 [Git cheat-sheet](https://git-scm.com/cheat-sheet)<br>
+[Using git](https://docs.github.com/en/get-started/using-git)
 [Pull requests documentation](https://docs.github.com/en/pull-requests)<br>
-[About git rebase](https://docs.github.com/en/get-started/using-git/about-git-rebase?versionId=free-pro-team%40latest&productId=pull-requests)<br>
 [Configuring branches and merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)<br>
 [GitHub issues](https://docs.github.com/en/issues)<br>
