@@ -7,9 +7,9 @@ develop branch.
 
 • main is always compilable and always runnable. If main is broken, that is a stop-the-world
 event.<br><br>
-• Every piece of work happens on a branch named <owner\>/<area\>-<short-description\> , for
+• Every piece of work happens on a branch named **<owner\>/<area\>-<short-description\>** , for
 example emir/net-poll-loop or kuzey/cmd-mode-k<br><br>
-• A branch lives at most one day. If your branch is older than 24 hours, it is too big; [split it](https://github.com/djpohly/git-split-branch/blob/master/README.md).<br><br>
+• A branch lives at most **one day**. If your branch is older than 24 hours, it is too big; [split it](https://github.com/djpohly/git-split-branch/blob/master/README.md).<br><br>
 • You merge into main through a [pull request](https://docs.github.com/en/pull-requests/reference), always, even for a two-line fix.<br><br>
 
 ## Branch protection rules
