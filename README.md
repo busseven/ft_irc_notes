@@ -8,7 +8,7 @@
 [Git cheat-sheet](https://git-scm.com/cheat-sheet)<br>
 [About branches](https://docs.github.com/en/pull-requests/reference/branches)<br>
 [About pull requests](https://docs.github.com/en/pull-requests/get-started/about-pull-requests?versionId=free-pro-team%40latest&productId=pull-requests&restPage=reference%2Cpull-requests)<br>
-[About git rebase](https://docs.github.com/en/get-started/using-git/about-git-rebase?versionId=free-pro-team%40latest&productId=pull-requests)
+[About git rebase](https://docs.github.com/en/get-started/using-git/about-git-rebase?versionId=free-pro-team%40latest&productId=pull-requests)<br>
 [Configuring branches and merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository)<br>
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)<br>
 [GitHub issues](https://docs.github.com/en/issues)<br>
